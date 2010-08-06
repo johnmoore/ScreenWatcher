@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScreenWatcherClient", "ScreenWatcherClient\ScreenWatcherClient.vbproj", "{69F0DADE-CFEF-4D53-A6C1-5E3CBB25E52F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScreenWatcherServer", "ScreenWatcherServer\ScreenWatcherServer.vbproj", "{564FCE9A-4A30-4255-9DF9-F82C2FF529BD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{69F0DADE-CFEF-4D53-A6C1-5E3CBB25E52F}.Debug.ActiveCfg = Debug|.NET
+		{69F0DADE-CFEF-4D53-A6C1-5E3CBB25E52F}.Debug.Build.0 = Debug|.NET
+		{69F0DADE-CFEF-4D53-A6C1-5E3CBB25E52F}.Release.ActiveCfg = Release|.NET
+		{69F0DADE-CFEF-4D53-A6C1-5E3CBB25E52F}.Release.Build.0 = Release|.NET
+		{564FCE9A-4A30-4255-9DF9-F82C2FF529BD}.Debug.ActiveCfg = Debug|.NET
+		{564FCE9A-4A30-4255-9DF9-F82C2FF529BD}.Debug.Build.0 = Debug|.NET
+		{564FCE9A-4A30-4255-9DF9-F82C2FF529BD}.Release.ActiveCfg = Release|.NET
+		{564FCE9A-4A30-4255-9DF9-F82C2FF529BD}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\Class Designer.exe
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\Class Designer.pdb
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\bin\Class Designer.exe
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\bin\Class Designer.pdb
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\bin\Class Designer.xml
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\Class_Designer.ClassDesigner.resources
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\Class_Designer.PeriodDialog.resources
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Portfolio\Class Designer Most Recent\2003\obj\Debug\Class Designer.xml
+C:\Users\Administrator\Desktop\ScreenWatcher\ScreenWatcher\Class Designer - .NET 2010\obj\Debug\Class Designer.exe
+C:\Users\Administrator\Desktop\ScreenWatcher\ScreenWatcher\Class Designer - .NET 2010\obj\Debug\Class Designer.xml
+C:\Users\Administrator\Desktop\ScreenWatcher\ScreenWatcher\Class Designer - .NET 2010\obj\Debug\Class Designer.pdb
